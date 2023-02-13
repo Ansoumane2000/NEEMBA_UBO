@@ -1,0 +1,73 @@
+/*Zone de code pour modifier tout le site au complet(avec toutes les pages) */
+#tab1
+{
+margin: auto;
+}
+#tab2
+{
+margin: auto;
+}
+
+
+#global{
+
+    width : 80%;
+    height : 800px;
+    display : flex;
+    margin : auto;
+    flex-direction : column;
+    justify-content : space-between;
+	font-size: 22pt;
+    
+}
+#global h1{
+display: flex;
+justify-content: center;
+width: 100%;
+height : 50 px;
+
+
+}
+
+#div1{
+display: flex;
+justify-content:center;
+margin-left:20px;
+height : 750px;
+flex-direction: column;
+background-color: cyan;
+
+}
+#gender{
+display:flex;
+justify-content:center;
+margin-left: -108px;
+text-align: center;
+height: auto;
+width: 100%;
+align-items: center;
+
+}
+#div2{
+display: flex;
+justify-content:flex-start;
+
+
+flex-direction: column;
+
+}
+#div3{
+display: flex;
+justify-content:flex-start;
+margin-left: 20px;
+
+flex-direction: column;
+}
+/*Zone de code pour modifier la page jeu video*/
+#Zonejeu{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    
+    background-color: aliceblue;
+}
